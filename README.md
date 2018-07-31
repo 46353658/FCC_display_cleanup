@@ -34,7 +34,8 @@ ZVF
 	X39611		
 	X39801	
 ZCS
-	Y03500		
+	Y03500<september 2018><arshad>		
 	Y03510		
 	Y03550<august 2018><arshad>		
 	Y03551	
+		According to the output (31 and 30/07/2018) only s010 of ghfd120s, empty input file

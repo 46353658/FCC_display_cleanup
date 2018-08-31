@@ -23,7 +23,7 @@ ZVF
 	X39360<done august 2018><nhloni>		
 	X39400<done july 2018><arshad>		
 	X39410<august 2018><nhloni>		
-	X39450		
+	X39450(SABIVR New main stub program)		
 	X39501<type 'retain' august 2018><arshad>		
 	X39503<type 'retain' august 2018><arshad>		
 	X39520		

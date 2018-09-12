@@ -10,8 +10,8 @@ ZVF
 	X39020<done july 2018><arshad>		
 	X39021<done july 2018><arshad>		
 	X39025<type 'retain' august 2018><arshad>		
-	X39035		
-	X39203		
+	X39035(from request job GHFD997R)		
+	X39203<november 2018><arshad>		
 	X39210		
 	X39270		
 	X39298<done july 2018><arshad>		
